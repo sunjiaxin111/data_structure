@@ -3,5 +3,7 @@
         "iostream": "cpp",
         "*.tcc": "cpp",
         "istream": "cpp"
-    }
+    },
+    "files.encoding": "gb2312",
+    "files.autoGuessEncoding": true
 }
